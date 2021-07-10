@@ -1,2 +1,11 @@
-# Ideal Gas Simulation
-This is a Cinder application that can be used to simulate, visualize, and analyze the behavior of particles in an ideal gas.
+# Ideal Gas Simulator
+
+An ideal gas simulator.
+
+## Technologies Used:
+- C++
+- Cinder/OpenGL
+- Catch2 Unit Testing
+- CMake
+
+![img](pic.PNG)
