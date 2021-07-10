@@ -1,6 +1,6 @@
 # Ideal Gas Simulator
 
-An ideal gas simulator.
+An ideal gas simulator which simulates the behavior of particles with different masses and radii, with histograms that update in live time.
 
 ## Technologies Used:
 - C++
